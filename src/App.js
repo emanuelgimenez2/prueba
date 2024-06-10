@@ -1,10 +1,11 @@
 import React from 'react';
-import LoginForm from "./componets/login/login" 
+import './App.css';
+import LoginForms from './componets/login/loginForms';
 
 function App() {
   return (
     <div>
-       <LoginForm/>
+      <LoginForms />
     </div>
   );
 }
