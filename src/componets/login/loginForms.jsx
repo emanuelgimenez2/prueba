@@ -20,7 +20,7 @@ const loginForms = () => {
                 <a href='#'>Olvide mi cotraseña</a>
             </div>
 
-            <button type="submit">Iniciar Secion</button>
+            <button type="submit">Iniciar Sesión</button>
             <div className="register-link">
                 <p>No esta registrado? <a href='#'>Registrarse</a></p>
             </div>
