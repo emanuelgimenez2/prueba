@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import RegisterForm from './componets/login/RegisterForm';
+import ForgotPasswordForm from './componets/login/ForgotPasswordForm';
 
 function App() {
   return (
     <div>
-      <RegisterForm />
+      <ForgotPasswordForm />
     </div>
   );
 }
